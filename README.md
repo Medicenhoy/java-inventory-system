@@ -6,7 +6,7 @@ This software is a command-line inventory management system that lets a user man
 
 My purpose for writing this software was to learn Java's object-oriented features hands-on, especially inheritance with abstract classes, and to practice using the Java Collection Framework — skills that are essential for professional Java development.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/J2afrEET0RM)
 
 # Development Environment
 
